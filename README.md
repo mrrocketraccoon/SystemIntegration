@@ -3,7 +3,8 @@
 [image1]: ./imgs/system_integration.gif "Self-Driving Vehicle"
 [image2]: ./imgs/final-project-ros-graph-v2.png "ROS Architecture"
 
-![alt text] [image1]
+
+![alt text][image1]
 
 
 This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. For more information about the project, see the project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/e1a23b06-329a-4684-a717-ad476f0d8dff/lessons/462c933d-9f24-42d3-8bdc-a08a5fc866e4/concepts/5ab4b122-83e6-436d-850f-9f4d26627fd9).
@@ -47,7 +48,7 @@ To set up port forwarding, please refer to the [instructions from term 2](https:
 
 The ROS nodes and topics in this project follow the system architecture introduced in the program as shown in the image.
 
-![alt text] [image2]
+![alt text][image2]
 
 
 ## Usage
