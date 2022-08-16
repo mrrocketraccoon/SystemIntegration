@@ -2,6 +2,7 @@
 
 [image1]: ./imgs/system_integration.gif "Self-Driving Vehicle"
 [image2]: ./imgs/final-project-ros-graph-v2.png "ROS Architecture"
+
 ![alt text] [image1]
 
 
@@ -46,6 +47,7 @@ To set up port forwarding, please refer to the [instructions from term 2](https:
 
 The ROS nodes and topics in this project follow the system architecture introduced in the program as shown in the image.
 
+![alt text] [image2]
 
 
 ## Usage
