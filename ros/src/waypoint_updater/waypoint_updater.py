@@ -111,7 +111,7 @@ class WaypointUpdater(object):
             p.twist.twist.linear.x = min(vel, wp.twist.twist.linear.x)# can be treated of upper clamping to speed limit 
             temp.append(p)
             
-            return temp
+        return temp
         
     def pose_cb(self, msg):
         self.pose = msg
